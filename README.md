@@ -10,7 +10,7 @@ To install Java, set up your Integrated Development Environment (IDE), and clone
 ### Run the project in IntelliJ
 - First, make sure again to have the correct Java version set in your project:
   Go to `File` > `Project Structure...`
-  In `Project Settings` > `Project` > `SDK` select `Java 17`.
+  In `Project Settings` > `Project` > `SDK` select `Java 21`.
 - In the menu, Go to `Run` > `Edit Configurations...`, click on the plus icon and select `Application`.
 - Give it a name, e.g., "HasterSimulator"
 - Now, you have to select the Main class, i.e., the starting point for running the application.
@@ -19,7 +19,7 @@ To install Java, set up your Integrated Development Environment (IDE), and clone
 
 ### Run the project in Eclipse
 - First, make sure again to have the correct Java version set in your project:
-  Go to `Eclipse` > `Preferences` > `Java` > `Compiler` and set the `Compiler compliance level` to `17`.
+  Go to `Eclipse` > `Preferences` > `Java` > `Compiler` and set the `Compiler compliance level` to `21`.
 - Start the Hamster Simulator by hitting the "Play Button" in the top left corner or in the menu under `Run` > `Run`.
 
 ### Run the project via command line:
